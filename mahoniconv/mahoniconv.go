@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/axgle/mahonia"
+	"github.com/ZTJDevelopers/mahonia"
 	"flag"
 	"io"
 	"log"
